@@ -25,7 +25,7 @@ const projects = [
   {
     title: "Voice Lens",
     cardImage: "assets/images/project-page/Voice-lens.jpg",
-    description: "VoiceLens is an AI tool that turns images into spoken captions using gestures, empowering visually impaired users to access visual content.",
+    description: "It is an AI tool that turns images into spoken captions using gestures, empowering visually impaired users to access visual content.",
     tagimg: "",
     Previewlink: "",
     Githublink: "https://github.com/Rohitpatil34/VoiceLens",
@@ -34,7 +34,7 @@ const projects = [
   {
     title: "LiveBuy",
     cardImage: "assets/images/project-page/ARVR.jpg",
-    description: "LiveBuy is an innovative e-commerce platform that leverages AR and VR technologies to provide users with a virtual shopping experience ",
+    description: "It is an innovative e-commerce platform that leverages AR and VR technologies to provide users with a virtual shopping experience ",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ecommerceviewer.vercel.app/",
     Githublink: "https://github.com/Rohitpatil34/mini-project",
@@ -157,4 +157,5 @@ function myFunction() {
     }
   }
 }
+
 
