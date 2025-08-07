@@ -4,8 +4,7 @@ Welcome to my personal **developer portfolio website** — a clean, responsive, 
 
 🔗 **Live Site**:  https://patilrohit.vercel.app/
 
-![Preview](<img width="1919" height="905" alt="Screenshot 2025-08-07 142634" src="https://github.com/user-attachments/assets/c865d516-5506-4b71-875e-83f812630df8" />
-)
+
 
 ---
 
@@ -56,5 +55,6 @@ This site is deployed for free using **Vercel**.
 git clone (https://github.com/Rohitpatil34/Rohit_Portfolio.git)
 cd Rohit_Portfolio
 # Then open index.html in your browser
+
 
 
