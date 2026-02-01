@@ -34,11 +34,22 @@ const certifications = [
     absbox: "absPopup3",
   },
   {
-    title: "Deep Learning ",
-    issuer: "NPTEL(IIT Roorkee)",
-    date: "Ongoing",
+    title: "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate ",
+    issuer: "Oracle",
+    date: "oct 2025",
     description:
-      "Deep Learning course covering neural networks, CNNs, RNNs, and more.",
+      "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+    link: "https://www.linkedin.com/in/rohit-patil-425867250/details/certifications/",
+    image: "assets/images/research-page/nptel.png",
+    citebox: "popup3",
+    absbox: "absPopup3",
+  },
+  {
+    title: "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional ",
+    issuer: "Oracle",
+    date: "oct 2025",
+    description:
+      "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
     link: "https://www.linkedin.com/in/rohit-patil-425867250/details/certifications/",
     image: "assets/images/research-page/nptel.png",
     citebox: "popup3",
@@ -82,3 +93,4 @@ const fillData = () => {
   researchTable.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", fillData);
+
