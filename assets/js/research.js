@@ -40,7 +40,7 @@ const certifications = [
     description:
       "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
     link: "https://www.linkedin.com/in/rohit-patil-425867250/details/certifications/",
-    image: "assets/images/research-page/nptel.png",
+    image: "assets/images/research-page/oracle.png",
     citebox: "popup3",
     absbox: "absPopup3",
   },
@@ -51,7 +51,7 @@ const certifications = [
     description:
       "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
     link: "https://www.linkedin.com/in/rohit-patil-425867250/details/certifications/",
-    image: "assets/images/research-page/nptel.png",
+    image: "assets/images/research-page/oracle.png",
     citebox: "popup3",
     absbox: "absPopup3",
   },
@@ -93,4 +93,5 @@ const fillData = () => {
   researchTable.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", fillData);
+
 
