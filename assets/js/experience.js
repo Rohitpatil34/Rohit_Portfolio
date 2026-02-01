@@ -74,10 +74,10 @@ const volunteershipcards = [
       "Won 2nd place in the intercollege project competition at DYPCET, Kolhapur.",
   },
   {
-    title: "Emerging leader in project cometition",
+    title: "ADCET Research Paper Presentation ",
     cardImage: "assets/images/experience-page/leader.jpg",
     description:
-      "Won the Emerging Leader award in the intercollege project competition at DYPCET, Kolhapur.",
+      "Won 1st place in Research Paper Presentation event oragnized by ADCET,Ashta.",
   },
   {
     title: "Quest and Collaboration",
@@ -244,3 +244,4 @@ const showCards3 = () => {
   hackathonsection.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards3);
+
